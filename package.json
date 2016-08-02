@@ -1,0 +1,17 @@
+{
+  "name": "rpi_hitachi_lcd",
+  "description": "Very simple RPI gpio controls for Hitachi like LCD screen",
+  "version": "0.0.3",
+  "license": "MIT",
+  "author": {
+    "name": "François Chabrou",
+    "email": "developer@stopgapjs.org",
+    "url": "http://www.stopgapjs.org"
+  },
+  "homepage": "http://www.stopgapjs.org/rpi/#hitachi_lcd",
+  "dependencies": {
+    "requirejs": ">=2.1.14",
+    "wiring-pi": ">=2.1.1"
+  },
+  "readme": ""
+}
